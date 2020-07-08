@@ -1,0 +1,123 @@
+
+.navbar{
+    background-color: #F0FFF0 !important;
+    padding: 10px 90px;
+}
+.are{
+    color: red;
+}
+.navbar img{
+    height: 70px;
+    width: 200px;
+}
+.home{
+    background-color: #F0FFF0 !important;
+    height: 450px;
+    width: auto;
+    padding: 10%;
+}
+.home img{
+    width: 100%;
+}
+.highlight{
+    color:#21B573;
+}
+.buy-now-btn{
+    background-color:#21B573;
+    color: #fff;
+    border: none;
+    border-radius:20px;
+    padding: 6px 25px;
+    cursor: pointer;
+}
+.navbar-nav a{
+    margin-right: 15px;
+}
+.col-md-3 img{
+    height: 100px;
+    width: 100px;
+}
+.col-md-2 h5{
+    font-weight: bold;
+}
+.book{
+    margin: 20px 80px;
+    height: 200px;
+    width: 950px;
+    background-color: #21B573;
+}
+.courses-card{
+    margin: 20px 80px;
+    height: auto;
+    width: auto;
+}
+.courses-card img{
+    padding: 10px;
+}
+.books{
+    height: 200px;
+    width: 950px;
+    margin: 40px 90px;
+    
+}
+.books img{
+    width: 70px;
+    height: 70px;
+    padding-top: 10px;
+} 
+.book-div{
+    height: 170px;
+    width: 170px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px lightgrey;
+    background-color: #F0FFF0;
+}
+.book-div p{
+    color: gray;
+}
+.card-footer{
+    background-color: white;
+    border: none;
+}
+.card-footer img{
+    width: 30%;
+}
+
+.courses h1{
+    text-align: center;
+    margin: 30px;
+}
+
+.actives{
+    height: 170px;
+    width: 170px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 14px 7px 64px lightgrey;
+    background-color: #fff;
+}
+
+.card{
+    border: none;
+    border-radius: 10px 0px;
+    box-shadow: 14px 7px 64px lightgrey;
+}
+.testimonial-sec{
+    height: 200px;
+    width: 950px;
+    margin: 20px 80px;
+    padding: 100px;
+}
+.footer{
+    background-color: #282531;
+    height: 350px;
+    margin: 20px 80px;
+    padding: 70px;
+    color: white;
+}
+footer{
+    background-color: #282531;
+    color: white;
+    text-align: center;
+}
